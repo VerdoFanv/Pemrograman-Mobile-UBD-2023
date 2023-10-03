@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Item 11"
+        android:icon="@drawable/ic_icon"
+        app:showAsAction="ifRoom"
+        android:id="@+id/item1"
+    />
+    <item
+        android:title="Item 2"
+        android:id="@+id/item2"
+        app:showAsAction="never"/>
+    <item android:id="@+id/item3"
+        app:showAsAction="never"
+        android:title="Item 3">
+        <menu>
+            <item android:title="Sub item 1"
+                android:id="@+id/subitem1" />
+            <item android:title="Sub Item 2"
+                android:id="@+id/subitem2" />
+        </menu>
+    </item>
+</menu>
