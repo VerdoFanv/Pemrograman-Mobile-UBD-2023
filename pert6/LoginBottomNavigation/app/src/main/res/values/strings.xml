@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginBottomNavigation</string>
+    <string-array name="fakultas">
+        <item>-- Pilih --</item>
+        <item>Fakultas Sains dan Teknologi</item>
+        <item>Fakultas Bisnis</item>
+        <item>Fakultas Humanoria</item>
+    </string-array>
+    <string-array name="prodi">
+        <item>-- Pilih --</item>
+        <item>Prodi Teknik Informatika</item>
+        <item>Prodi Sistem Informasi</item>
+        <item>Prodi Management</item>
+        <item>Prodi Akustansi</item>
+    </string-array>
+</resources>

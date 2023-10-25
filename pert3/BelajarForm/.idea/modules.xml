@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Belajar Form.Belajar_Form.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Belajar Form.Belajar_Form.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Belajar Form.Belajar_Form.app.androidTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Belajar Form.Belajar_Form.app.androidTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Belajar Form.Belajar_Form.app.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Belajar Form.Belajar_Form.app.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Belajar Form.Belajar_Form.app.unitTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Belajar Form.Belajar_Form.app.unitTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BelajarForm.Belajar_Form.iml" filepath="$PROJECT_DIR$/.idea/modules/BelajarForm.Belajar_Form.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Belajar_Form.iml" filepath="$PROJECT_DIR$/.idea/modules/Belajar_Form.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Belajar_Form.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Belajar_Form.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Belajar_Form.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Belajar_Form.app.androidTest.iml" />

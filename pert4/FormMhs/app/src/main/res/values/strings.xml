@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Form Mahasiswa</string>
+    <string-array name="pilihkelas">
+        <item>--Pilih--</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="pilihagama">
+        <item>--Pilih---</item>
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Kristen</item>
+        <item>Buddha</item>
+        <item>Hindu</item>
+        <item>Konghucu</item>
+    </string-array>
+</resources>

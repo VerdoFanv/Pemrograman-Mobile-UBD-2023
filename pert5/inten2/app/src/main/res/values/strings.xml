@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">inten2</string>
+    <string-array name="fakultas">
+        <item>--- Pilih ---</item>
+        <item>Sains Dan Teknologi</item>
+        <item>Humaniora</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Industri</item>
+    </string-array>
+    <string-array name="prodi">
+        <item>--- Pilih ---</item>
+        <item>Teknik Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Ilmu Komunikasi</item>
+    </string-array>
+</resources>
